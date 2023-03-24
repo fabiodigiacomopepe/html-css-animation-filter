@@ -199,12 +199,12 @@
     }
 
     20% {
-        right: calc(100% - 30px);
+        right: calc(100% - 45px); /* con 60px sborda */
         bottom: -10px;
     }
 
     40% {
-        right: calc(100% - 30px);
+        right: calc(100% - 45px); /* con 60px sborda */
         bottom: 100%;
     }
 
